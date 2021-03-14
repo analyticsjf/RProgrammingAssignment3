@@ -14,6 +14,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 * 
 * 
+*
 
 5. Appropriately labels the data set with descriptive variable names. 
 
